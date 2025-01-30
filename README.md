@@ -11,7 +11,7 @@ Ready to boost your typing skills? Let’s go! ⏳🔥
 
 ## 🌟 Features   
 - **⌨️ Real-Time Typing Test**: Type the displayed words as fast and accurately as possible
-- **🔧 Adjustable Difficulty**: Choose between different difficulty levels (Easy, Medium, Hard). 
+- **📊 Live Speed & Accuracy Tracker**: See your words-per-minute (WPM) and accuracy update in real-time.
 - **🖥 User-Friendly Interface**: Simple and clean interface for an enjoyable gaming experience.  
 - **🔍 Feedback Mechanism**: After each guess, the game will indicate whether the guessed number is too high or too low.  
 -  **⏳ Attempt Limit**: Keep track of how many attempts you have left, adding a sense of urgency to the challenge.
