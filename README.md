@@ -21,8 +21,8 @@ Ready to boost your typing skills? Let’s go! ⏳🔥
 
 ## 🚀 How to Play  
 1. **Start the Game**: Click the "Start" button to generate random words and begin the challenge.  🎰.  
-2. **Time To Guess**:  You will be prompted to enter your guess. 💭
-3. **Feedback Based On NUmber Guessed**: Check the score to see if you’re leading or need a comeback.  
+2.  **Type the Words**: Type the displayed words as fast and accurately as possible.  💭
+3.**Track Your Performance**: Your speed (WPM) and accuracy will be calculated in real-time.   
 4. **Guess Right And Win** Once you guess correctly, you win! 🏆 If you run out of attempts, the game ends, and you’ll have the option to try again. 🔄  
 
 ---
