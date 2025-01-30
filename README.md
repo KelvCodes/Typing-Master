@@ -20,7 +20,7 @@ Ready to boost your typing skills? Let’s go! ⏳🔥
 ---
 
 ## 🚀 How to Play  
-1. **Generating Number Within System**: When the game starts, the system will generate a random number within the predefined range. 🎰.  
+1. **Start the Game**: Click the "Start" button to generate random words and begin the challenge.  🎰.  
 2. **Time To Guess**:  You will be prompted to enter your guess. 💭
 3. **Feedback Based On NUmber Guessed**: Check the score to see if you’re leading or need a comeback.  
 4. **Guess Right And Win** Once you guess correctly, you win! 🏆 If you run out of attempts, the game ends, and you’ll have the option to try again. 🔄  
