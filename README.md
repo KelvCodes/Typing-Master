@@ -2,8 +2,10 @@
 
 # ⌨️ Typing Speed Master 🚀
 
-Welcome to the **NumQuest**! 🎉  
-A simple yet fun take on the classic game, built with 💻 **HTML**, 🎨 **CSS**, and 🛠️ **JavaScript**. Play against the computer, sharpen your decision-making skills, and enjoy smooth animations. Ready to dominate the game? Let’s go! 🚀  
+Welcome to **Typing Speed Master!** 🎉  
+A fun and interactive game designed to test and improve your typing speed and accuracy.  
+Built using **HTML**, **CSS**, and **JavaScript**, this game offers a seamless experience with smooth animations and real-time feedback.  
+Ready to boost your typing skills? Let’s go! ⏳🔥 
 
 ---
 
