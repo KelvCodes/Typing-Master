@@ -14,7 +14,7 @@ Ready to boost your typing skills? Let’s go! ⏳🔥
 - **📊 Live Speed & Accuracy Tracker**: See your words-per-minute (WPM) and accuracy update in real-time.
 - **⚡ Difficulty Levels**: Choose between Easy, Medium, and Hard difficulty levels. 
 - **🎯 Time Challenge**: Beat the countdown by typing as many words as possible before time runs out..  
--  **⏳ Attempt Limit**: Keep track of how many attempts you have left, adding a sense of urgency to the challenge.
+-  **📜 Randomized Word Generation**: A vast collection of words to ensure each session is unique.
 
 ---
 
