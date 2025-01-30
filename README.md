@@ -23,7 +23,7 @@ Ready to boost your typing skills? Let’s go! ⏳🔥
 1. **Start the Game**: Click the "Start" button to generate random words and begin the challenge.  🎰.  
 2.  **Type the Words**: Type the displayed words as fast and accurately as possible.  💭
 3.**Track Your Performance**: Your speed (WPM) and accuracy will be calculated in real-time.   
-4. **Guess Right And Win** Once you guess correctly, you win! 🏆 If you run out of attempts, the game ends, and you’ll have the option to try again. 🔄  
+4.**Beat the Clock**: The game ends when the timer runs out. Try to get the highest score! 🔄  
 
 ---
 
