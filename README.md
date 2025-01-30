@@ -28,7 +28,7 @@ Ready to boost your typing skills? Let’s go! ⏳🔥
 
 ---
 
-## 🛠️ Installation  
+## 🛠️ Installation  of Typing Master
 
 1. Clone this repository to your local machine:  
    ```bash  
