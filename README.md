@@ -9,8 +9,8 @@ Ready to boost your typing skills? Let’s go! ⏳🔥
 
 ---
 
-## 🌟 Features  
-- **🎲 Random Number Generation**: The game generates a random number that you need to guess.
+## 🌟 Features   
+-**⌨️ Real-Time Typing Test**: Type the displayed words as fast and accurately as possible
 - **🔧 Adjustable Difficulty**: Choose between different difficulty levels (Easy, Medium, Hard). 
 - **🖥 User-Friendly Interface**: Simple and clean interface for an enjoyable gaming experience.  
 - **🔍 Feedback Mechanism**: After each guess, the game will indicate whether the guessed number is too high or too low.  
