@@ -15,7 +15,7 @@ Ready to boost your typing skills? Let’s go! ⏳🔥
 - **⚡ Difficulty Levels**: Choose between Easy, Medium, and Hard difficulty levels. 
 - **🎯 Time Challenge**: Beat the countdown by typing as many words as possible before time runs out..  
 -  **📜 Randomized Word Generation**: A vast collection of words to ensure each session is unique.
-
+- **🖥 User-Friendly Interface**: Clean and responsive design for an enjoyable experience.  
 ---
 
 ## 🚀 How to Play  
