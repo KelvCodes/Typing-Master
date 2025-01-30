@@ -32,7 +32,7 @@ Ready to boost your typing skills? Let’s go! ⏳🔥
 
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/numquest.git  
+   git clone https://github.com/yourusername/typing-master.git  
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
