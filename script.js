@@ -6,7 +6,7 @@ const timeElement = document.getElementById("time"); // Element to display the r
 const endgameElement = document.getElementById("end-game-container"); // End game message container
 const settingsButton = document.getElementById("settings-btn"); // Button to toggle settings
 const settings = document.getElementById("settings"); // Settings container
-const settingsForm = document.getElementById("settings-form");
+const settingsForm = document.getElementById("settings-form");// Settings form
 const difficultySelect = document.getElementById("difficulty");
 
 // Expanded list of words for the game
