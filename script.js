@@ -111,7 +111,7 @@ function gameOver() {
 
 // Event listener for the input field
 text.addEventListener("input", (e) => {
-  const insertedText = e.target.value;
+  const insertedText = e.target.value;// Get the text entered by the user
   if (insertedText === randomWord) {
     e.target.value = "";
     addWordToDom();
