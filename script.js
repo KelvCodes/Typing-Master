@@ -114,7 +114,7 @@ text.addEventListener("input", (e) => {
   const insertedText = e.target.value;// Get the text entered by the user
   if (insertedText === randomWord) {
     e.target.value = ""; // Clear the input field
-    addWordToDom();
+    addWordToDom();// Display a new random word
     updateScore();
     if (difficulty === "hard") time += 2;
     else if (difficulty === "medium") time += 3;
