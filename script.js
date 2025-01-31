@@ -69,6 +69,7 @@ let difficulty =
     ? localStorage.getItem("difficulty")
     : "medium"; // Difficulty level (default: medium)
 
+// Timer interval to update time every second
 const timeInterval = setInterval(updateTime, 1000);
 
 function getRandomWord() {
