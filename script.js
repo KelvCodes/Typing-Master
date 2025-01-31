@@ -62,7 +62,7 @@ const words = [
 
 // Game variables
 let randomWord; // Stores the current random word
-let score = 0;
+let score = 0;// Tracks the player's score
 let time = 10;
 let difficulty =
   localStorage.getItem("difficulty") !== null
