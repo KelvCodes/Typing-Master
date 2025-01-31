@@ -106,7 +106,7 @@ function gameOver() {
     <p>Your final score is ${score}</p>
     <button onclick="location.reload()">Play Again</button>
   `;
-  endgameElement.style.display = "flex";
+  endgameElement.style.display = "flex"; // Show the end game container
 }
 
 text.addEventListener("input", (e) => {
