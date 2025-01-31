@@ -1,3 +1,4 @@
+// DOM Elements
 const word = document.getElementById("word");
 const text = document.getElementById("text");
 const scoreElement = document.getElementById("score");
