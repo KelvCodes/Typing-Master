@@ -60,6 +60,7 @@ const words = [
   "mutable",
 ];
 
+// Game variables
 let randomWord;
 let score = 0;
 let time = 10;
