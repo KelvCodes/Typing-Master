@@ -1,5 +1,5 @@
 // DOM Elements
-const word = document.getElementById("word");
+const word = document.getElementById("word");// Element to display the random word
 const text = document.getElementById("text");
 const scoreElement = document.getElementById("score");
 const timeElement = document.getElementById("time");
