@@ -67,7 +67,7 @@ let time = 10;// Initial time for the game
 let difficulty =
   localStorage.getItem("difficulty") !== null
     ? localStorage.getItem("difficulty")
-    : "medium";
+    : "medium"; // Difficulty level (default: medium)
 
 const timeInterval = setInterval(updateTime, 1000);
 
