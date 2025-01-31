@@ -72,6 +72,7 @@ let difficulty =
 // Timer interval to update time every second
 const timeInterval = setInterval(updateTime, 1000);
 
+// Function to get a random word from the words array
 function getRandomWord() {
   return words[Math.floor(Math.random() * words.length)];
 }
