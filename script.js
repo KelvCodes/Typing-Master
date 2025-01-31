@@ -95,7 +95,7 @@ function updateTime() {
   timeElement.innerText = time + "s";// Update the time display
   if (time === 0) {
     clearInterval(timeInterval);// Stop the timer
-    gameOver();
+    gameOver(); // End the game
   }
 }
 
