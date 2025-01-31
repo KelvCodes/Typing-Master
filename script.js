@@ -89,6 +89,7 @@ function updateScore() {
   scoreElement.innerText = score;
 }
 
+// Function to update the timer and check if time is up
 function updateTime() {
   time--;
   timeElement.innerText = time + "s";
