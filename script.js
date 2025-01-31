@@ -109,6 +109,7 @@ function gameOver() {
   endgameElement.style.display = "flex"; // Show the end game container
 }
 
+// Event listener for the input field
 text.addEventListener("input", (e) => {
   const insertedText = e.target.value;
   if (insertedText === randomWord) {
