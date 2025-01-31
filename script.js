@@ -7,7 +7,7 @@ const endgameElement = document.getElementById("end-game-container"); // End gam
 const settingsButton = document.getElementById("settings-btn"); // Button to toggle settings
 const settings = document.getElementById("settings"); // Settings container
 const settingsForm = document.getElementById("settings-form");// Settings form
-const difficultySelect = document.getElementById("difficulty");
+const difficultySelect = document.getElementById("difficulty");// Difficulty select dropdown
 
 // Expanded list of words for the game
 const words = [
