@@ -99,6 +99,7 @@ function updateTime() {
   }
 }
 
+// Function to display the end game message
 function gameOver() {
   endgameElement.innerHTML = `
     <h1>Time's up! ⏰</h1>
