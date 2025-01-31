@@ -1,7 +1,7 @@
 // DOM Elements
 const word = document.getElementById("word");// Element to display the random word
 const text = document.getElementById("text");// Input field for typing the word
-const scoreElement = document.getElementById("score");
+const scoreElement = document.getElementById("score");// Element to display the score
 const timeElement = document.getElementById("time");
 const endgameElement = document.getElementById("end-game-container");
 const settingsButton = document.getElementById("settings-btn");
