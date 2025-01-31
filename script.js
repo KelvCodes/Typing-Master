@@ -77,6 +77,7 @@ function getRandomWord() {
   return words[Math.floor(Math.random() * words.length)];
 }
 
+// Function to display a random word in the DOM
 function addWordToDom() {
   randomWord = getRandomWord();
   word.innerText = randomWord;
