@@ -113,7 +113,7 @@ function gameOver() {
 text.addEventListener("input", (e) => {
   const insertedText = e.target.value;// Get the text entered by the user
   if (insertedText === randomWord) {
-    e.target.value = "";
+    e.target.value = ""; // Clear the input field
     addWordToDom();
     updateScore();
     if (difficulty === "hard") time += 2;
