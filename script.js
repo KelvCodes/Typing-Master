@@ -83,6 +83,7 @@ function addWordToDom() {
   word.innerText = randomWord;
 }
 
+// Function to update the score and display it
 function updateScore() {
   score++;
   scoreElement.innerText = score;
