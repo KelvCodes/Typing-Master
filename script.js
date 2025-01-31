@@ -61,7 +61,7 @@ const words = [
 ];
 
 // Game variables
-let randomWord;
+let randomWord; // Stores the current random word
 let score = 0;
 let time = 10;
 let difficulty =
