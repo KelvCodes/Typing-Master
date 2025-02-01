@@ -93,6 +93,7 @@ button:focus, input:focus {
   transition: transform 0.3s ease-in-out;
 }
 
+/* Hide settings panel by moving it up */
 .settings.hide {
   transform: translateY(-100%)
 }
