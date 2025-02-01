@@ -98,6 +98,7 @@ button:focus, input:focus {
   transform: translateY(-100%)
 }
 
+/* Container styling for main content */
 .container {
   background-color: var(--secondary-color);
   padding: 20px;
