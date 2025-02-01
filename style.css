@@ -134,6 +134,7 @@ input {
   margin-top: 10px;
 }
 
+/* Positioning for the score display */
 .score-container {
   position: absolute;
   top: 60px;
