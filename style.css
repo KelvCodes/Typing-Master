@@ -64,6 +64,7 @@ select {
   background-color: var(--gradient-color);
 }
 
+/* Remove focus outline for cleaner UI */
 select:focus,
 button:focus, input:focus {
   outline: 0;
