@@ -52,6 +52,7 @@ button:active {
   transform: scale(0.98);
 }
 
+/* Custom styling for select dropdown */
 select {
   width: 200px;
   padding: 5px;
