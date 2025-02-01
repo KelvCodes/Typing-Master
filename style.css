@@ -164,6 +164,7 @@ input {
   z-index: 1;/* Ensures it appears above other content */
 }
 
+/* Footer styling */
 footer{
   padding-top: 50px;
   color: blue;
