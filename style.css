@@ -41,6 +41,7 @@ button {
   border: none;
 }
 
+/* Button hover effects for better user interaction */
 button:hover {
   color: var(--text-color);
   background-color: var(--overlay-color);
