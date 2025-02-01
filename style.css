@@ -47,6 +47,7 @@ button:hover {
   background-color: var(--overlay-color);
 }
 
+/* Button active state for a click effect */
 button:active {
   transform: scale(0.98);
 }
