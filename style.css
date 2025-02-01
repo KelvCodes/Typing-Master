@@ -1,6 +1,7 @@
 /* Importing Google Font: Syne Mono */
 @import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
 
+/* Root variables for consistent theme styling */
 :root {
   --primary-color: #BBE0EF;
   --secondary-color: #06599F;
