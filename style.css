@@ -3,7 +3,7 @@
 
 /* Root variables for consistent theme styling */
 :root {
-  --primary-color: #BBE0EF;
+  --primary-color: #BBE0EF; /* Light blue background color */
   --secondary-color: #06599F;
   --overlay-color: #1A1314;
   --gradient-color: #F2F3F4;
