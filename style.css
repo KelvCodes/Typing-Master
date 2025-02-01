@@ -70,6 +70,7 @@ button:focus, input:focus {
   outline: 0;
 }
 
+/* Positioning for settings button at the bottom right */
 .settings-btn {
   position: absolute;
   bottom: 30px;
