@@ -116,6 +116,7 @@ h1 {
   margin: 0;
 }
 
+/* Secondary heading styling */
 h2 {
   background-color: var(--overlay-color);
   padding: 8px;
