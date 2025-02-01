@@ -11,6 +11,7 @@
   --border-radius: 0.5rem; /* Consistent border radius */
 }
 
+/* Apply box-sizing globally for better layout consistency */
 * {
   box-sizing: border-box;
 }
