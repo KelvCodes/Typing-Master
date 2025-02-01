@@ -16,6 +16,7 @@
   box-sizing: border-box;
 }
 
+/* Styling the body to create a centered, responsive layout */
 body {
   background-color: var(--primary-color);
   background-image: linear-gradient(315deg, var(--primary-color) 0%, var(--gradient-color) 100%)
