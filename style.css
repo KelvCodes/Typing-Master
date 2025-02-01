@@ -141,6 +141,7 @@ input {
   right: 20px;
 }
 
+/* Positioning for the time display */
 .time-container {
   position: absolute;
   top: 60px;
