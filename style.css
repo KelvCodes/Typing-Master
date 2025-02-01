@@ -7,7 +7,7 @@
   --secondary-color: #06599F; /* Dark blue for container */
   --overlay-color: #1A1314; /* Dark overlay for contrast */
   --gradient-color: #F2F3F4; /* Light gradient effect */
-  --text-color: #F0F0ED;
+  --text-color: #F0F0ED;  /* Light text for readability */
   --border-radius: 0.5rem;
 }
 
