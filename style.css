@@ -57,7 +57,7 @@ select {
   width: 200px;
   padding: 5px;
   font-family: inherit;
-  appearance: none;
+  appearance: none; /* Removes default browser styles */
   -webkit-appearance: none;
   -moz-appearance: none;
   border-radius: var(--border-radius);
