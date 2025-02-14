@@ -1,5 +1,3 @@
-
-
 # ⌨️ Typing Speed Master 🚀
 
 Welcome to **Typing Speed Master!** 🎉  
