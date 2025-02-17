@@ -16,6 +16,9 @@ Ready to boost your typing skills? Let’s go! ⏳🔥
 - **🖥 User-Friendly Interface**: Clean and responsive design for an enjoyable experience.
 - **🔁 Restart & Improve**: Play multiple times to track your progress and improve your typing skills.   
 ---
+## 🎬 Live Demo 
+
+🔗 **[Try It Now](https://ai-powered-lost-and-found.netlify.app/)**  
 
 ## 🚀 How to Play  
 1. **Start the Game**: Click the "Start" button to generate random words and begin the challenge.  🎰.  
