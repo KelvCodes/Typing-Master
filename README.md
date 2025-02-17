@@ -20,6 +20,8 @@ Ready to boost your typing skills? Let’s go! ⏳🔥
 
 🔗 **[Try It Now](https://ai-powered-lost-and-found.netlify.app/)**  
 
+---
+
 ## 🚀 How to Play  
 1. **Start the Game**: Click the "Start" button to generate random words and begin the challenge.  🎰.  
 2.  **Type the Words**: Type the displayed words as fast and accurately as possible.  💭
