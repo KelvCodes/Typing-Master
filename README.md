@@ -45,7 +45,7 @@ Ready to boost your typing skills? Let’s go! ⏳🔥
 
 ## 🤝 Contributing  
 
-Want to add new features or improve Typing Mast  game? We’d love your help! 💡  
+Want to add new features or improve Typing Maste game? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
