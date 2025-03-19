@@ -1,18 +1,4 @@
- for settings button at the bottom right */
-
-  background-color: var(--overlay-color);
-  color: var(--text-color);
-  height: 70px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transform: translateY(0);
-  transition: transform 0.3s ease-in-out;
-}
-
-/* Hide settings panel by moving it up */
-.settings.hide {
-  transform: translateY(-100%)
+-100%)
 }
 
 /* Container styling for main content */
