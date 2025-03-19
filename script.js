@@ -1,12 +1,6 @@
 nce",
-  "polymorphism",
-  "abstraction",
-  "authentication",
-  "authorization",
-  "middleware",
-  "prototype",
-  "callback",
-  "promise",
+
+
   "async",
   "await",
   "closure",
