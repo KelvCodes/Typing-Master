@@ -1,16 +1,4 @@
 
-  "mutable",
-];
-
-// Game variables
-let randomWord; // Stores the current random word
-let score = 0;// Tracks the player's score
-let time = 10;// Initial time for the game
-let difficulty =
-  localStorage.getItem("difficulty") !== null
-    ? localStorage.getItem("difficulty")
-    : "medium"; // Difficulty level (default: medium)
-
 // Timer interval to update time every second
 const timeInterval = setInterval(updateTime, 1000);
 
