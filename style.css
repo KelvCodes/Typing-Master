@@ -1,12 +1,6 @@
 imary-color: #BBE0EF; /* Light blue background color */
   --secondary-color: #06599F; /* Dark blue for container */
-  --overlay-color: #1A1314; /* Dark overlay for contrast */
-  --gradient-color: #F2F3F4; /* Light gradient effect */
-  --text-color: #F0F0ED;  /* Light text for readability */
-  --border-radius: 0.5rem; /* Consistent border radius */
-}
-
-/* Apply box-sizing globally for better layout consistency */
+-sizing globally for better layout consistency */
 * {
   box-sizing: border-box;
 }
