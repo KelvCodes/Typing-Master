@@ -1,16 +1,5 @@
  for settings button at the bottom right */
-.settings-btn {
-  position: absolute;
-  bottom: 30px;
-  right: 30px;
-}
 
-/* Settings panel styling */
-.settings {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
   background-color: var(--overlay-color);
   color: var(--text-color);
   height: 70px;
