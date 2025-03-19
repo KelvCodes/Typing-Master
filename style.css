@@ -1,14 +1,1 @@
- styles */
-.end-game-container {
-  background-color: inherit;
-  border-radius: inherit;
-  display: 
-  height: 100%;
-  z-index: 1;/* Ensures it appears above other content */
-}
 
-/* Footer styling */
-footer{
-  padding-top: 50px;
-  color: blue;
-}
