@@ -1,13 +1,3 @@
-hover effects for better user interaction */
-button:hover {
-  color: var(--text-color);
-  background-color: var(--overlay-color);
-}
-
-/* Button active state for a click effect */
-button:active {
-  transform: scale(0.98);
-}
 
 /* Custom styling for select dropdown */
 select {
