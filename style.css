@@ -2,14 +2,7 @@
 .end-game-container {
   background-color: inherit;
   border-radius: inherit;
-  display: none;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
+  display: 
   height: 100%;
   z-index: 1;/* Ensures it appears above other content */
 }
