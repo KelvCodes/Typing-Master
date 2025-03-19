@@ -1,17 +1,4 @@
 
-// Timer interval to update time every second
-const timeInterval = setInterval(updateTime, 1000);
-
-// Function to get a random word from the words array
-function getRandomWord() {
-  return words[Math.floor(Math.random() * words.length)];
-}
-
-// Function to display a random word in the DOM
-function addWordToDom() {
-  randomWord = getRandomWord();
-  word.innerText = randomWord;
-}
 
 // Function to update the score and display it
 function updateScore() {
