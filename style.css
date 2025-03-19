@@ -1,34 +1,4 @@
 
-/* Header styling */
-h1 {
-  margin: 0;
-}
-
-/* Secondary heading styling */
-h2 {
-  background-color: var(--overlay-color);
-  padding: 8px;
-  border-radius: var(--border-radius);
-  margin: 0 0 40px;
-}
-
-/* Input field styling */
-input {
-  border: 0;
-  border-radius: var(--border-radius);
-  font-size: 14px;
-  width: 300px;
-  padding: 12px 20px;
-  margin-top: 10px;
-}
-
-/* Positioning for the score display */
-.score-container {
-  position: absolute;
-  top: 60px;
-  right: 20px;
-}
-
 /* Positioning for the time display */
 .time-container {
   position: absolute;
