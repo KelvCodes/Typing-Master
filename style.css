@@ -1,12 +1,4 @@
-
-/* Custom styling for select dropdown */
-select {
-  width: 200px;
-  padding: 5px;
-  font-family: inherit;
-  appearance: none; /* Removes default browser styles */
-  -webkit-appearance: none;
-  -moz-appearance: none;
+ppearance: none;
   border-radius: var(--border-radius);
   background-color: var(--gradient-color);
 }
