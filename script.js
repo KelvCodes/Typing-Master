@@ -1,8 +1,4 @@
-ficultySelect = document.getElementById("difficulty");// Difficulty select dropdown
-
-// Expanded list of words for the game
-const words = [
-  "Napo is gay",
+"Napo is gay",
   "Frank is not correct",
   "Napo again loves constance",
   "Asante's soul mate is bread",
