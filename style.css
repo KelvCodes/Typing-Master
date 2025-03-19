@@ -1,18 +1,3 @@
--100%)
-}
-
-/* Container styling for main content */
-.container {
-  background-color: var(--secondary-color);
-  padding: 20px;
-  border-radius: var(--border-radius);
-  box-shadow: 0 3px 5px var(--overlay-color);
-  color: var(--text-color);
-  position: relative;
-  text-align: center;
-  width: 500px;
-  max-width: 90vw;
-}
 
 /* Header styling */
 h1 {
