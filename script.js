@@ -1,16 +1,4 @@
- Stop the timer
-    gameOver(); // End the game
-  }
-}
-
-// Function to display the end game message
-function gameOver() {
-  endgameElement.innerHTML = `
-    <h1>Time's up! ⏰</h1>
-    <p>Your final score is ${score}</p>
-    <button onclick="location.reload()">Play Again</button>
-  `;
-  endgameElement.style.display = "flex"; // Show the end game container
+splay = "flex"; // Show the end game container
 }
 
 // Event listener for the input field
