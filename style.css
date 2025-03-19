@@ -1,11 +1,4 @@
-
- font-family: inherit;
-  border-radius: var(--border-radius);
-  padding: 10px 15px;
-  border: none;
-}
-
-/* Button hover effects for better user interaction */
+hover effects for better user interaction */
 button:hover {
   color: var(--text-color);
   background-color: var(--overlay-color);
