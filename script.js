@@ -1,17 +1,4 @@
-
-
-// Function to update the score and display it
-function updateScore() {
-  score++;
-  scoreElement.innerText = score;
-}
-
-// Function to update the timer and check if time is up
-function updateTime() {
-  time--;
-  timeElement.innerText = time + "s";// Update the time display
-  if (time === 0) {
-    clearInterval(timeInterval);// Stop the timer
+ Stop the timer
     gameOver(); // End the game
   }
 }
