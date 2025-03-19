@@ -1,12 +1,4 @@
-
-/* Positioning for the time display */
-.time-container {
-  position: absolute;
-  top: 60px;
- left: 20px;
-}
-
-/* End-game screen styles */
+ styles */
 .end-game-container {
   background-color: inherit;
   border-radius: inherit;
