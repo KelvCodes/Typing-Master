@@ -1,11 +1,4 @@
 
-  "react",
-  "angular",
-  "database",
-  "framework",
-  "syntax",
-  "iteration",
-  "debugging",
   "responsive",
   "component",
   "interface",
