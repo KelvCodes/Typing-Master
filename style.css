@@ -1,14 +1,5 @@
 
-  background-color: var(--primary-color);
-hidden;
-  margin: 0;
-}
-
-/* Button styles for a consistent UI */
-button {
-  cursor: pointer;
-  font-size: 14px;
-  font-family: inherit;
+ font-family: inherit;
   border-radius: var(--border-radius);
   padding: 10px 15px;
   border: none;
