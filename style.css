@@ -1,9 +1,4 @@
-/* Importing Google Font: Syne Mono */
-@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
-
-/* Root variables for consistent theme styling */
-:root {
-  --primary-color: #BBE0EF; /* Light blue background color */
+imary-color: #BBE0EF; /* Light blue background color */
   --secondary-color: #06599F; /* Dark blue for container */
   --overlay-color: #1A1314; /* Dark overlay for contrast */
   --gradient-color: #F2F3F4; /* Light gradient effect */
