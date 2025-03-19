@@ -1,10 +1,4 @@
-"Napo is gay",
-pt",
-  "developer",
-  "programming",
-  "algorithm",
-  "function",
-  "variable",
+
   "react",
   "angular",
   "database",
