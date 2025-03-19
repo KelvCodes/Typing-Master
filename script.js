@@ -1,10 +1,4 @@
-coreElement = document.getElementById("score");// Element to display the score
-const timeElement = document.getElementById("time"); // Element to display the remaining time
-const endgameElement = document.getElementById("end-game-container"); // End game message container
-const settingsButton = document.getElementById("settings-btn"); // Button to toggle settings
-const settings = document.getElementById("settings"); // Settings container
-const settingsForm = document.getElementById("settings-form");// Settings form
-const difficultySelect = document.getElementById("difficulty");// Difficulty select dropdown
+ficultySelect = document.getElementById("difficulty");// Difficulty select dropdown
 
 // Expanded list of words for the game
 const words = [
