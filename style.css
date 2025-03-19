@@ -1,15 +1,4 @@
-ppearance: none;
-  border-radius: var(--border-radius);
-  background-color: var(--gradient-color);
-}
-
-/* Remove focus outline for cleaner UI */
-select:focus,
-button:focus, input:focus {
-  outline: 0;
-}
-
-/* Positioning for settings button at the bottom right */
+ for settings button at the bottom right */
 .settings-btn {
   position: absolute;
   bottom: 30px;
