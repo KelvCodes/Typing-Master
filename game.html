@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+      integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Typing Master - Game</title>
+  </head>
+  <body data-theme="light">
+    <div class="game-wrapper">
+      <button id="settings-btn" class="settings-btn animate-btn">
+        <i class="fas fa-cog"></i>
+      </button>
+      <div class="settings" id="settings">
+        <form id="settings-form">
+          <label for="difficulty">Difficulty</label>
+          <select id="difficulty" class="animate-select">
+            <option value="easy">Easy</option>
+            <option value="medium">Medium</option>
+            <option value="hard">Hard</option>
+          </select>
+          <label for="sound">Sound</label>
+          <input type="checkbox" id="sound" checked />
+        </form>
+      </div>
+      <div class="stats-panel">
+        <p class="time-container">Time: <span id="time">10s</span></p>
+        <p class="score-container">Score: <span id="score">0</span></p>
+        <p class="wpm-container">WPM: <span id="wpm">0</span></p>
+        <div class="progress-bar">
+          <div id="progress" class="progress"></div>
+        </div>
+      </div>
+      <div class="game-container animate-container">
+        <h2>👩‍💻 Typing Master 👨‍💻</h2>
+        <div class="word-card">
+          <h1 id="word" class="animate-word"></h1>
+        </div>
+        <input
+          type="text"
+          id="text"
+          autocomplete="off"
+          placeholder="Type the word here..."
+          class="animate-input"
+        />
+        <div id="end-game-container" class="end-game-container"></div>
+      </div>
+      <div class="leaderboard-panel">
+        <h3>Leaderboard</h3>
+        <ul id="leaderboard-list"></ul>
+      </div>
+    </div>
+    <footer>
+        <p>Developed by <a href="https://github.com/KelvCodes"><strong>KelvCodes</strong></a></p>
+        <div class="social-icons">
+          <a href="www.linkedin.com/in/kelvin-agyare-yeboah-6728a7301" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="https://instagram.com/_.yo.kelvin" target="_blank"><i class="fab fa-instagram"></i></a>
+          <a href="https://github.com/KelvCodes" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://www.youtube.com/@TechTutor_Tv?sub_confirmation=1" target="_blank"><i class="fab fa-youtube"></i></a>
+        </div>
+        </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
